@@ -21,6 +21,18 @@
         "id": "P004",
         "name": "Cheetos",
         "price": 3.9,
-        "stock": 32
+        "stock": 31
+    },
+    {
+        "id": "P005",
+        "name": "Canon Printer",
+        "price": 300.0,
+        "stock": 56
+    },
+    {
+        "id": "P006",
+        "name": "MSP430",
+        "price": 87.56,
+        "stock": 23
     }
 ]

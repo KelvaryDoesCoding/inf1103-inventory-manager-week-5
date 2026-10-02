@@ -89,7 +89,7 @@ def update_stock(inventory):
 
     print("\nUpdate Stock")
 
-    product_id = input("Enter Product ID: ")
+    product_id = input("Enter Product ID: ").upper().strip()
 
     for product in inventory:
 
@@ -114,7 +114,7 @@ def search_product(inventory):
 
     print("\nSearch Product")
 
-    product_id = input("Enter Product ID: ")
+    product_id = input("Enter Product ID: ").upper().strip()
 
     for product in inventory:
 
